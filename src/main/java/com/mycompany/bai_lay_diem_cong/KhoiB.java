@@ -12,7 +12,7 @@ import java.util.Scanner;
  */
 public class KhoiB extends KhoiA{
     private int Sinh;
-    
+    Scanner sc = new Scanner(System.in);
     
     public KhoiB() {
         super(false);

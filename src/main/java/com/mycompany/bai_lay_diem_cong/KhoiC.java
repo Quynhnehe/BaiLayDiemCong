@@ -14,6 +14,7 @@ public class KhoiC extends Thi_Sinh{
     private int Van;
     private int Su;
     private int Dia;
+    Scanner sc = new Scanner(System.in);
     
     public KhoiC() {
     }
